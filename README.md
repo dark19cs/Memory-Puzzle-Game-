@@ -81,6 +81,37 @@ This approach simulates intelligent behavior through **conditions and rules**, m
 - Built-in modules: `random`, `os`, `time`
 
 ---
+## 👥 Team Members & Contributions
+
+This project was developed as a **group project** by four students.  
+Each team member was responsible for a specific part of the Memory Puzzle Game to ensure effective collaboration and fair distribution of work.
+
+### 👤 Team Members:
+
+- **Lawa**
+  - Project idea and overall coordination  
+  - Core game logic (card matching rules, levels, game flow)  
+  - Integration of all game components  
+
+- **Mhamad**
+  - Graphical User Interface (GUI) design using Tkinter  
+  - Card layout, buttons, and screen design  
+  - Visual enhancements and animations  
+
+- **Warida**
+  - Timer implementation and level progression  
+  - Hint system functionality  
+  - Game testing and bug fixing  
+
+- **Dene**
+  - Sound effects integration  
+  - Pause and resume functionality  
+  - Project documentation (README and report support)  
+
+### 🤝 Teamwork Statement
+
+All team members worked collaboratively, shared ideas, tested the application, and contributed to the successful completion of the project.
+
 ## 📁 Project Structure
 
 | File / Folder | Description |
