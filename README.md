@@ -84,17 +84,15 @@ This approach simulates intelligent behavior through **conditions and rules**, m
 
 ## 📁 Project Structure
 aigameee/
-│
-├── main.py # Main game controller
-├── ui_design.py # UI layout and widgets
-├── ui_animations.py # Card flip and win animations
-├── game_logic.py # Card generation and shuffle logic
-├── hint_logic.py # Hint detection logic
-├── timer_logic.py # Timer management
-├── sound.py # Sound feedback
-├── sound_control.py # Mute control
-├── constants.py # Global constants and paths
-│
+├── main.py
+├── ui_design.py
+├── ui_animations.py
+├── game_logic.py
+├── hint_logic.py
+├── timer_logic.py
+├── sound.py
+├── sound_control.py
+├── constants.py
+├── README.md   ← (the one I gave you)
 └── assets/
-├── images/ # Fruit and card images
-└── sounds/ # Sound effects
+
