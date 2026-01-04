@@ -81,18 +81,21 @@ This approach simulates intelligent behavior through **conditions and rules**, m
 - Built-in modules: `random`, `os`, `time`
 
 ---
-
 ## 📁 Project Structure
-aigameee/
-├── main.py
-├── ui_design.py
-├── ui_animations.py
-├── game_logic.py
-├── hint_logic.py
-├── timer_logic.py
-├── sound.py
-├── sound_control.py
-├── constants.py
-├── README.md   ← (the one I gave you)
-└── assets/
 
+| File / Folder | Description |
+|--------------|-------------|
+| aigameee/ | Main project folder |
+| main.py | Main game controller and entry point |
+| ui_design.py | Handles all UI layout and widgets |
+| ui_animations.py | Card flip and win animations |
+| game_logic.py | Card generation and shuffle logic |
+| hint_logic.py | Hint detection logic |
+| timer_logic.py | Game timer management |
+| sound.py | Sound effects and audio feedback |
+| sound_control.py | Mute and sound control |
+| constants.py | Global constants and asset paths |
+| README.md | Project documentation |
+| assets/ | Game assets folder |
+| assets/images/ | Fruit and card images |
+| assets/sounds/ | Sound effect files |
